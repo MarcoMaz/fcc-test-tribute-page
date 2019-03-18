@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+
+body {
+  background-color: #397aca;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 16px;
+  text-align: center;
+  #title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 4em;
+  }
+  #tribute-info, figcaption, #tribute-link {
+    font-size: 1.5em;
+  }
+  #image {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    }
+  }
