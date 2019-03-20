@@ -1,6 +1,6 @@
 <h1>Tribute Page</h1>
 <h2>Description</h2>
-<p>FCC Project of a Tribute Page.</p>
+<p>FCC Project of a Tribute Page built using Html5, Css3, and Scss.</p>
 <h2>Technologies used</h2>
 <ul>
 <li>Html5</li>
