@@ -9,9 +9,9 @@
 </ul>
 <h2>Where to find the project...</h2>
 <p>
-Click <a href="https://s.codepen.io/vinniezappa/debug/xBOQEZ/NjrYzqjavBeA" target="_blank"> here</a>
+Click <a href="https://s.codepen.io/vinniezappa/full/xBOQEZ/NjrYzqjavBeA" target="_blank"> here</a>
 or in the image below <br/><br/>
-<a href="https://s.codepen.io/vinniezappa/debug/xBOQEZ/NjrYzqjavBeA" target="_blank">
+<a href="https://s.codepen.io/vinniezappa/full/xBOQEZ/NjrYzqjavBeA" target="_blank">
 <img src="https://www.dropbox.com/s/3kqryp0cr4e6jvi/12-tribute-page.jpg?raw=1" target="_blank">
 </a>
 </p>
